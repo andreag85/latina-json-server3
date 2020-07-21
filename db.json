@@ -170,6 +170,21 @@
           "parent": 0
         },
         {
+          "id": 12,
+          "type": 1,
+          "title": "Chiama la redazione",
+          "text_color": "",
+          "icon_url": "",
+          "icon": "phone",
+          "icon_color": "",
+          "bold": false,
+          "background_color": "",
+          "order": 12,
+          "url": "",
+          "configurator": 19,
+          "parent": 0
+        },
+        {
           "id": 13,
           "type": 1,
           "title": "Impostazioni",
@@ -194,7 +209,7 @@
           "icon_color": "",
           "bold": true,
           "background_color": "",
-          "order": 10,
+          "order": 14,
           "url": "",
           "configurator": 7,
           "parent": 0
