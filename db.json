@@ -198,21 +198,6 @@
           "url": "",
           "configurator": 5,
           "parent": 0
-        },
-        {
-          "id": 14,
-          "type": 1,
-          "title": "Registrazione",
-          "text_color": "",
-          "icon_url": "",
-          "icon": "",
-          "icon_color": "",
-          "bold": true,
-          "background_color": "",
-          "order": 14,
-          "url": "",
-          "configurator": 7,
-          "parent": 0
         }
       ]
     }
