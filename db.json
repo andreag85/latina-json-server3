@@ -155,6 +155,21 @@
           "parent": 0
         },
         {
+          "id": 11,
+          "type": 1,
+          "title": "Scrivi alla redazione",
+          "text_color": "",
+          "icon_url": "",
+          "icon": "mail_outline",
+          "icon_color": "",
+          "bold": false,
+          "background_color": "",
+          "order": 11,
+          "url": "",
+          "configurator": 18,
+          "parent": 0
+        },
+        {
           "id": 13,
           "type": 1,
           "title": "Impostazioni",
